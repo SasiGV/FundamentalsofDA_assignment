@@ -35,10 +35,10 @@ The Jupyter Notebook for this practical assignment is named "Fundamentals_of_DA.
 
 
 ### 4. Regression 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] Compare dependent variables
+- [x] Compare dependent with independent variables
+- [x] Scatterplot for comparisions
+- [x] Review distribution of tip and total_bill percentages
 
 
 ### 5. Analyse the relationship between the variables
