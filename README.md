@@ -25,19 +25,25 @@ The Jupyter Notebook for this practical assignment is named "Fundamentals_of_DA.
 - [x] Measures of Frequency
 - [x] Measures of Central Tendency
 - [x] Measures of Dispersion or Variation
-- [x] Measures of Position
+
+### 3. Review using different measurements
+- [x] Review of number of people visited in a day
+- [x] Review of smokers visited in a day
+- [x] Review of Percentage of Male/Female visited in a day
+- [x] Review of Distributuon of Tips on the Days
+- [x] Review using pairplot to describe the relationship between the variables
 
 
-### 3. Regression 
+### 4. Regression 
 - [x] 
 - [x] 
 - [x] 
 - [x] 
 
 
-### 4. Analyse the relationship between the variables
+### 5. Analyse the relationship between the variables
 - [x] Complete
-### 5. References
+### 6. References
 - [x] Complete
-### 6. Review
+### 7. Review
 - [x] Complete
